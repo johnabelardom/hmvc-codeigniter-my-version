@@ -1,0 +1,29 @@
+dark-primary: #00796B;
+light-primary: #B2DFDB;
+primary-color: #009688;
+text-icons: #FFFFFF;
+accent-color: #8BC34A;
+primary-text: #212121;
+secondary-text: #757575;
+divider-color: #BDBDBD;
+
+
+red {
+	dark: #D32F2F;
+	prim: #F44336;
+}
+
+blue {
+	dark: #1976D2;
+	prim: #2196F3;
+}
+
+green {
+	dark: #388E3C;
+	prim: #4CAF50;
+}
+
+grey {
+	dark: #616161;
+	prim: #9E9E9E;
+}
